@@ -16,7 +16,7 @@ My name in Chinese: 张辰逸.
 **Chenyi Zhang**\*, 
 Jiaqi Leng\*, and
 Tongyang Li, [Quantum algorithms for escaping from saddle points](https://arxiv.org/abs/2007.10253v3). 
-**Quantum**, 5:529, 2021. [Single-track contributed talk](https://www.youtube.com/watch?v=xbHqktWa354&list=PL5DZ45amUsqIaqE9EIemfc9LzeWzXnGY_&index=77) at the 24th Annual Conference on Quantum Information Processing (**[QIP 2021](https://www.mcqst.de/qip2021/)**).
+**Quantum**, 5:529, 2021. [Contributed talk (single track)](https://www.youtube.com/watch?v=xbHqktWa354&list=PL5DZ45amUsqIaqE9EIemfc9LzeWzXnGY_&index=77) at the 24th Annual Conference on Quantum Information Processing (**[QIP 2021](https://www.mcqst.de/qip2021/)**).
 <br />
 (* marks equal contribution)
 
