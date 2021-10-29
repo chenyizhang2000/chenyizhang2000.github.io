@@ -31,7 +31,7 @@ Andrew M. Childs, Jiaqi Leng, Tongyang Li, Jin-Peng Liu, and **Chenyi Zhang** (a
 ## Services
 **Journal reviewer**: [Quantum](https://quantum-journal.org)
 <br />
-**Conference reviewer**: 21th Asian Quantum Information Science Conference ([AQIS’21](http://aqis-conf.org/2021/))
+**Conference reviewer**: 21st Asian Quantum Information Science Conference ([AQIS’21](http://aqis-conf.org/2021/))
 <br />
 **Teaching assistant**: Quantum communication and cryptography, Tsinghua University, Fall 2021
 
