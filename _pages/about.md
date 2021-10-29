@@ -22,9 +22,9 @@ Tongyang Li, [Quantum algorithms for escaping from saddle points](https://arxiv.
 
 **Chenyi Zhang**, and Tongyang Li, Escape saddle points by a simple gradient-descent based algorithm. To appear in the 35th Conference on Neural Information Processing Systems (**[NeurIPS 2021](https://neurips.cc)**).
 
-Andrew M. Childs, Jiaqi Leng, Tongyang Li, Jin-Peng Liu, and **Chenyi Zhang** (alphabetical order). Quantum simulation of real-space dynamics. Submitted to the 25th Annual Conference on Quantum Information Processing (**[QIP 2022](https://web.cvent.com/event/8adf8248-432b-499c-91e2-63b83ba3f69e/summary?environment=P2)**).
+Andrew M. Childs, Jiaqi Leng, Tongyang Li, Jin-Peng Liu, and **Chenyi Zhang** (alphabetical order), Quantum simulation of real-space dynamics. Submitted to the 25th Annual Conference on Quantum Information Processing (**[QIP 2022](https://web.cvent.com/event/8adf8248-432b-499c-91e2-63b83ba3f69e/summary?environment=P2)**).
 
-**Chenyi Zhang**, and Luming Duan. Quantum algorithms for simulating the incompressible Navier- Stokes equations. Submitted to the 25th Annual Conference on Quantum Information Processing (**[QIP 2022](https://web.cvent.com/event/8adf8248-432b-499c-91e2-63b83ba3f69e/summary?environment=P2)**).
+**Chenyi Zhang**, and Luming Duan, Quantum algorithms for simulating the incompressible Navier- Stokes equations. Submitted to the 25th Annual Conference on Quantum Information Processing (**[QIP 2022](https://web.cvent.com/event/8adf8248-432b-499c-91e2-63b83ba3f69e/summary?environment=P2)**).
 
 ## Services
 **Journal reviewer**: [Quantum](https://quantum-journal.org)
