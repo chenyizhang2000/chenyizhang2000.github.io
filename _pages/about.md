@@ -25,9 +25,7 @@ Tongyang Li, [Quantum algorithms for escaping from saddle points](https://arxiv.
 
 ## Preprints
 
-Andrew M. Childs, Jiaqi Leng, Tongyang Li, Jin-Peng Liu, and **Chenyi Zhang** (alphabetical order), Quantum simulation of real-space dynamics. Submitted to the 25th Annual Conference on Quantum Information Processing (**[QIP 2022](https://web.cvent.com/event/8adf8248-432b-499c-91e2-63b83ba3f69e/summary?environment=P2)**).
-
-**Chenyi Zhang** and Luming Duan, Quantum algorithms for simulating the incompressible Navier- Stokes equations. Submitted to the 25th Annual Conference on Quantum Information Processing (**[QIP 2022](https://web.cvent.com/event/8adf8248-432b-499c-91e2-63b83ba3f69e/summary?environment=P2)**).
+Andrew M. Childs, Jiaqi Leng, Tongyang Li, Jin-Peng Liu, and **Chenyi Zhang** (alphabetical order), [Quantum simulation of real-space dynamics](https://arxiv.org/abs/2203.17006). 
 
 ## Services
 **Journal reviewer**: [Quantum](https://quantum-journal.org)
