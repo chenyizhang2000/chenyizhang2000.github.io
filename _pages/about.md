@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior-year undergraduate student in the [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/) (Yao Class) at Tsinghua University. I am interested in quantum computing, quantum algorithms and machine learning theory.
-
+I am a senior-year undergraduate student in the [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/) (Yao Class) at Tsinghua University.
 My name in Chinese: 张辰逸.
 
 ## Publications
@@ -26,15 +25,6 @@ Tongyang Li, [Quantum algorithms for escaping from saddle points](https://arxiv.
 ## Preprints
 
 Andrew M. Childs, Jiaqi Leng, Tongyang Li, Jin-Peng Liu, and **Chenyi Zhang** (alphabetical order), [Quantum simulation of real-space dynamics](https://arxiv.org/abs/2203.17006). 
-
-
-
-## Services
-**Journal reviewer**: [Quantum](https://quantum-journal.org)
-<br />
-**Conference reviewer**: 21st Asian Quantum Information Science Conference ([AQIS’21](http://aqis-conf.org/2021/))
-<br />
-**Teaching assistant**: Quantum communication and cryptography, Tsinghua University, Fall 2021
 
 ## Awards & Honors
 2017, Gold Medal, Chinese Physics Olympiad (Top 100 around China)
