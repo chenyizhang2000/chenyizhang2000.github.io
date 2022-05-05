@@ -13,6 +13,8 @@ My name in Chinese: 张辰逸.
 
 ## Publications
 
+**Chenyi Zhang** and Tongyang Li, [Escape saddle points by a simple gradient-descent based algorithm](https://arxiv.org/abs/2111.14069). Proceedings of the 35th Conference on Neural Information Processing Systems (**[NeurIPS 2021](https://neurips.cc)**).
+
 **Chenyi Zhang**\*, 
 Jiaqi Leng\*, and
 Tongyang Li, [Quantum algorithms for escaping from saddle points](https://arxiv.org/abs/2007.10253v3). 
@@ -20,7 +22,6 @@ Tongyang Li, [Quantum algorithms for escaping from saddle points](https://arxiv.
 <br />
 (* marks equal contribution)
 
-**Chenyi Zhang** and Tongyang Li, [Escape saddle points by a simple gradient-descent based algorithm](https://arxiv.org/abs/2111.14069). Proceedings of the 35th Conference on Neural Information Processing Systems (**[NeurIPS 2021](https://neurips.cc)**).
 
 ## Awards & Honors
 2017, Gold Medal, Chinese Physics Olympiad (Top 100 around China)
