@@ -22,10 +22,6 @@ Tongyang Li, [Quantum algorithms for escaping from saddle points](https://arxiv.
 
 **Chenyi Zhang** and Tongyang Li, [Escape saddle points by a simple gradient-descent based algorithm](https://arxiv.org/abs/2111.14069). Proceedings of the 35th Conference on Neural Information Processing Systems (**[NeurIPS 2021](https://neurips.cc)**).
 
-% ## Preprints
-
-% Andrew M. Childs, Jiaqi Leng, Tongyang Li, Jin-Peng Liu, and **Chenyi Zhang** (alphabetical order), [Quantum simulation of real-space dynamics](https://arxiv.org/abs/2203.17006). 
-
 ## Awards & Honors
 2017, Gold Medal, Chinese Physics Olympiad (Top 100 around China)
 <br />
