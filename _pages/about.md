@@ -30,4 +30,3 @@ Tongyang Li, [Quantum algorithms for escaping from saddle points](https://arxiv.
 <br />
 <br />
 <br />
-
