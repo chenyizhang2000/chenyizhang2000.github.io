@@ -25,7 +25,7 @@ Tongyang Li, [Quantum algorithms for escaping from saddle points](https://arxiv.
 
 ## Awards & Honors
 2017, Gold Medal, Chinese Physics Olympiad (Top 100 around China)
-<br />
+2022, IIIS Excellent Gradates, Institute for Interdisciplinary Information Sciences, Tsinghua University
 <br />
 <br />
 <br />
