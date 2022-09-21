@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior-year undergraduate student in the [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/) (Yao Class) at Tsinghua University.
+I am a first-year CS PhD student at [Stanford University](https://cs.stanford.edu).
 My name in Chinese: 张辰逸.
 
 ## Publications
