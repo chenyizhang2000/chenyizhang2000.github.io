@@ -22,6 +22,9 @@ Tongyang Li, [Quantum algorithms for escaping from saddle points](https://arxiv.
 <br />
 (* marks equal contribution)
 
+## Preprint
+
+Andrew M. Childs, Jiaqi Leng, Tongyang Li, Jin-Peng Liu, **Chenyi Zhang** (alphabetical order), [Quantum simulation of real-space dynamics](https://arxiv.org/abs/2203.17006).
 
 ## Awards & Honors
 2022, IIIS Excellent Graduate, Institute for Interdisciplinary Information Sciences, Tsinghua University
