@@ -24,8 +24,6 @@ Tongyang Li, [Quantum algorithms for escaping from saddle points](https://arxiv.
 <br />
 (* marks equal contribution)
 
-%## Preprint
-
 
 
 ## Awards & Honors
