@@ -11,6 +11,11 @@ redirect_from:
 I am a first-year CS PhD student at [Stanford University](https://cs.stanford.edu).
 My name in Chinese: 张辰逸.
 
+## Preprint
+Weiyuan Gong\*, **Chenyi Zhang**\*, and Tongyang Li, [Robustness of Quantum Algorithms for Nonconvex Optimization](https://arxiv.org/abs/2212.02548).
+<br />
+(* marks equal contribution)
+
 ## Publications
 
 Andrew M. Childs, Jiaqi Leng, Tongyang Li, Jin-Peng Liu, and **Chenyi Zhang** (alphabetical order), [Quantum simulation of real-space dynamics](https://arxiv.org/abs/2203.17006). **Quantum**, 6:860, 2022.
