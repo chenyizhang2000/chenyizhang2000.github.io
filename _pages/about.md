@@ -12,6 +12,8 @@ I am a first-year CS PhD student at [Stanford University](https://cs.stanford.ed
 My name in Chinese: 张辰逸.
 
 ## Preprint
+**Chenyi Zhang** and Tongyang Li, [Quantum Lower Bounds for Finding Stationary Points of Nonconvex Functions](https://arxiv.org/abs/2212.03906).
+
 Weiyuan Gong\*, **Chenyi Zhang**\*, and Tongyang Li, [Robustness of Quantum Algorithms for Nonconvex Optimization](https://arxiv.org/abs/2212.02548).
 <br />
 (* marks equal contribution)
