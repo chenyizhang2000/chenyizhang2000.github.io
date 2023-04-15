@@ -12,7 +12,7 @@ I am a first-year CS PhD student at [Stanford University](https://cs.stanford.ed
 My name in Chinese: 张辰逸.
 
 ## Preprint
-Scott Aaronson, Adam Bouland, Bill Fefferman, Soumik Ghosh, Umesh Vazirani, **Chenyi Zhang**, and Zixin Zhou (alphabetical order), [Quantum Pseudoentanglement](https://arxiv.org/abs/2211.00747).
+Scott Aaronson, Adam Bouland, Bill Fefferman, Soumik Ghosh, Umesh Vazirani, **Chenyi Zhang**, and Zixin Zhou (alphabetical order), [Quantum Pseudoentanglement](https://arxiv.org/abs/2211.00747). [Talk](https://www.youtube.com/watch?v=4Nq_zzDg9go) at the 26th Annual Conference on Quantum Information Processing (**[QIP 2023](https://indico.cern.ch/event/1175020/)**).
 
 **Chenyi Zhang** and Tongyang Li, [Quantum Lower Bounds for Finding Stationary Points of Nonconvex Functions](https://arxiv.org/abs/2212.03906).
 
