@@ -19,7 +19,7 @@ Scott Aaronson, Adam Bouland, Bill Fefferman, Soumik Ghosh, Umesh Vazirani, **Ch
 (* marks equal contribution)
 
 ## Publications
-**Chenyi Zhang** and Tongyang Li, [Quantum Lower Bounds for Finding Stationary Points of Nonconvex Functions](https://arxiv.org/abs/2212.03906). Accepted by the 40th International Conference on Machine Learning (**[ICML 2023](https://icml.cc)**).
+(by contribution) **Chenyi Zhang** and Tongyang Li, [Quantum Lower Bounds for Finding Stationary Points of Nonconvex Functions](https://arxiv.org/abs/2212.03906). Accepted by the 40th International Conference on Machine Learning (**[ICML 2023](https://icml.cc)**).
 
 Andrew M. Childs, Jiaqi Leng, Tongyang Li, Jin-Peng Liu, and **Chenyi Zhang**, [Quantum simulation of real-space dynamics](https://arxiv.org/abs/2203.17006). **Quantum**, 6:860, 2022.
 
