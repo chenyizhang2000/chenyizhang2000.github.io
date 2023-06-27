@@ -11,7 +11,7 @@ redirect_from:
 I am a first-year CS PhD student at [Stanford University](https://cs.stanford.edu).
 My name in Chinese: 张辰逸.
 
-## Preprint
+## Preprints
 
 Aaron Sidford and **Chenyi Zhang**, [Quantum speedups for stochastic optimization](https://drive.google.com/file/d/1meP3ekHyghTDQPLzyS-8q4eL6FtUSCU8/view?usp=share_link).
 
