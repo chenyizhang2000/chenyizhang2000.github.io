@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year CS PhD student at [Stanford University](https://cs.stanford.edu).
-My name in Chinese: 张辰逸.
+I am a first-year CS PhD student at [Stanford University](https://cs.stanford.edu). I'm fortunate to be advised by [Adam Bouland](https://theory.stanford.edu/~abouland/) and [Aaron Sidford](https://www.aaronsidford.com). Previously, I was an undergraduate student in Yao Class, Tsinghua University.
 
 ## Preprints
 
