@@ -36,10 +36,10 @@ Tongyang Li, [Quantum algorithms for escaping from saddle points](https://arxiv.
 
 
 
-## Awards & Honors
-2022, IIIS Excellent Graduate, Institute for Interdisciplinary Information Sciences, Tsinghua University
+%## Awards & Honors
+%2022, IIIS Excellent Graduate, Institute for Interdisciplinary Information Sciences, Tsinghua University
 
-2017, Gold Medal, Chinese Physics Olympiad (Top 100 around China)
+%2017, Gold Medal, Chinese Physics Olympiad (Top 100 around China)
 <br />
 <br />
 <br />
