@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Chenyi Zhang"
-  avatar           : # "profile.png"
+  avatar           : "profile.png"
   bio              : "First-year PhD student, Stanford University"
   location         : 
   employer         :
