@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year CS Theory PhD student at [Stanford University](https://cs.stanford.edu). I'm fortunate to be advised by [Adam Bouland](https://theory.stanford.edu/~abouland/) and [Aaron Sidford](https://www.aaronsidford.com). Previously, I was an undergraduate student at Yao Class, Tsinghua University.
+I am a second-year CS Theory PhD student at [Stanford University](https://cs.stanford.edu). I'm fortunate to be advised by [Adam Bouland](https://theory.stanford.edu/~abouland/) and [Aaron Sidford](https://www.aaronsidford.com). Previously, I was an undergraduate student at Yao Class, Tsinghua University.
 
 ## Preprints
-
-Aaron Sidford and **Chenyi Zhang**, [Quantum speedups for stochastic optimization](https://arxiv.org/abs/2308.01582).
 
 Scott Aaronson, Adam Bouland, Bill Fefferman, Soumik Ghosh, Umesh Vazirani, **Chenyi Zhang**, and Zixin Zhou, [Quantum Pseudoentanglement](https://arxiv.org/abs/2211.00747). [Talk](https://www.youtube.com/watch?v=4Nq_zzDg9go) at the 26th Annual Conference on Quantum Information Processing (**[QIP 2023](https://indico.cern.ch/event/1175020/)**).
 
@@ -21,6 +19,8 @@ Scott Aaronson, Adam Bouland, Bill Fefferman, Soumik Ghosh, Umesh Vazirani, **Ch
 (* marks equal contribution)
 
 ## Publications
+Aaron Sidford and **Chenyi Zhang**, [Quantum speedups for stochastic optimization](https://arxiv.org/abs/2308.01582). Accepted by the 37th Conference on Neural Information Processing Systems (**[NeurIPS 2023](https://neurips.cc)**)
+
 (by contribution) **Chenyi Zhang** and Tongyang Li, [Quantum Lower Bounds for Finding Stationary Points of Nonconvex Functions](https://arxiv.org/abs/2212.03906). Accepted by the 40th International Conference on Machine Learning (**[ICML 2023](https://icml.cc)**).
 
 Andrew M. Childs, Jiaqi Leng, Tongyang Li, Jin-Peng Liu, and **Chenyi Zhang**, [Quantum simulation of real-space dynamics](https://arxiv.org/abs/2203.17006). **Quantum**, 6:860, 2022.
