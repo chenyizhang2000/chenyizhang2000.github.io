@@ -12,7 +12,7 @@ I am a second-year CS Theory PhD student at [Stanford University](https://cs.sta
 
 ## Preprints
 
-Adam Bouland, Bill Fefferman, Soumik Ghosh, Tony Metger, Umesh Vazirani, **Chenyi Zhang**, and Zixin Zhou, [Public-key pseudoentanglement and the hardness of learning ground state entanglement structure](https://arxiv.org/abs/2311.12017)
+Adam Bouland, Bill Fefferman, Soumik Ghosh, Tony Metger, Umesh Vazirani, **Chenyi Zhang**, and Zixin Zhou, [Public-key pseudoentanglement and the hardness of learning ground state entanglement structure](https://arxiv.org/abs/2311.12017).
 
 (by contribution) Weiyuan Gong\*, **Chenyi Zhang**\*, and Tongyang Li, [Robustness of Quantum Algorithms for Nonconvex Optimization](https://arxiv.org/abs/2212.02548).
 <br />
