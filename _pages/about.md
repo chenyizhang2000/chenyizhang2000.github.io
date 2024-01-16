@@ -19,6 +19,8 @@ Adam Bouland, Bill Fefferman, Soumik Ghosh, Tony Metger, Umesh Vazirani, **Cheny
 (* marks equal contribution)
 
 ## Publications
+Hao Wang, **Chenyi Zhang**, and Tongyang Li, Near-Optimal Quantum Algorithm for Minimizing the Maximal Loss. ICLR 2024.
+
 Scott Aaronson, Adam Bouland, Bill Fefferman, Soumik Ghosh, Umesh Vazirani, **Chenyi Zhang**, and Zixin Zhou, [Quantum Pseudoentanglement](https://arxiv.org/abs/2211.00747). ITCS 2024. [Talk](https://www.youtube.com/watch?v=4Nq_zzDg9go) at QIP 2023.
 
 Aaron Sidford and **Chenyi Zhang**, [Quantum speedups for stochastic optimization](https://arxiv.org/abs/2308.01582). NeurIPS 2023. [Pre-recorded talk](https://recorder-v3.slideslive.com/?share=88602&s=8db9eb5c-9669-4695-aaf1-12239a81d4b6).
