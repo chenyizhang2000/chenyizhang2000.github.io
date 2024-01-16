@@ -12,14 +12,14 @@ I am a second-year CS Theory PhD student at [Stanford University](https://cs.sta
 
 ## Preprints
 
+(Unless marked as "by contribtion", the authors of papers are listed alphabetically. * marks equal contribution.)
+
 Adam Bouland, Bill Fefferman, Soumik Ghosh, Tony Metger, Umesh Vazirani, **Chenyi Zhang**, and Zixin Zhou, [Public-key pseudoentanglement and the hardness of learning ground state entanglement structure](https://arxiv.org/abs/2311.12017).
 
 (by contribution) Weiyuan Gong\*, **Chenyi Zhang**\*, and Tongyang Li, [Robustness of Quantum Algorithms for Nonconvex Optimization](https://arxiv.org/abs/2212.02548).
-<br />
-(* marks equal contribution)
 
 ## Publications
-Hao Wang, **Chenyi Zhang**, and Tongyang Li, Near-Optimal Quantum Algorithm for Minimizing the Maximal Loss. ICLR 2024.
+(by contribution) Hao Wang\*, **Chenyi Zhang**\*, and Tongyang Li, Near-Optimal Quantum Algorithm for Minimizing the Maximal Loss. ICLR 2024.
 
 Scott Aaronson, Adam Bouland, Bill Fefferman, Soumik Ghosh, Umesh Vazirani, **Chenyi Zhang**, and Zixin Zhou, [Quantum Pseudoentanglement](https://arxiv.org/abs/2211.00747). ITCS 2024. [Talk](https://www.youtube.com/watch?v=4Nq_zzDg9go) at QIP 2023.
 
@@ -35,9 +35,6 @@ Andrew M. Childs, Jiaqi Leng, Tongyang Li, Jin-Peng Liu, and **Chenyi Zhang**, [
 Jiaqi Leng\*, and
 Tongyang Li, [Quantum algorithms for escaping from saddle points](https://arxiv.org/abs/2007.10253v3). 
 **Quantum**, 5:529, 2021. [Contributed talk](https://www.youtube.com/watch?v=xbHqktWa354&list=PL5DZ45amUsqIaqE9EIemfc9LzeWzXnGY_&index=77) at QIP 2021.
-<br />
-(* marks equal contribution)
-
 
 
 ## Awards & Honors
