@@ -14,7 +14,7 @@ I am a second-year CS Theory PhD student at [Stanford University](https://cs.sta
 
 (Unless marked as "by contribution", the authors of papers are listed alphabetically. * marks equal contribution.)
 
-Adam Bouland, Bill Fefferman, Soumik Ghosh, Tony Metger, Umesh Vazirani, **Chenyi Zhang**, and Zixin Zhou, [Public-key pseudoentanglement and the hardness of learning ground state entanglement structure](https://arxiv.org/abs/2311.12017).
+Adam Bouland, Bill Fefferman, Soumik Ghosh, Tony Metger, Umesh Vazirani, **Chenyi Zhang**, and Zixin Zhou, [Public-key pseudoentanglement and the hardness of learning ground state entanglement structure](https://arxiv.org/abs/2311.12017). 
 
 (by contribution) Weiyuan Gong\*, **Chenyi Zhang**\*, and Tongyang Li, [Robustness of Quantum Algorithms for Nonconvex Optimization](https://arxiv.org/abs/2212.02548).
 
@@ -25,7 +25,7 @@ Scott Aaronson, Adam Bouland, Bill Fefferman, Soumik Ghosh, Umesh Vazirani, **Ch
 
 Aaron Sidford and **Chenyi Zhang**, [Quantum speedups for stochastic optimization](https://arxiv.org/abs/2308.01582). NeurIPS 2023. [Pre-recorded talk](https://recorder-v3.slideslive.com/?share=88602&s=8db9eb5c-9669-4695-aaf1-12239a81d4b6).
 
-(by contribution) **Chenyi Zhang** and Tongyang Li, [Quantum Lower Bounds for Finding Stationary Points of Nonconvex Functions](https://arxiv.org/abs/2212.03906). ICML 2023.
+(by contribution) **Chenyi Zhang** and Tongyang Li, [Quantum Lower Bounds for Finding Stationary Points of Nonconvex Functions](https://arxiv.org/abs/2212.03906). ICML 2023. [Talk](https://www.youtube.com/watch?v=24ZJyB9JfTs&t=928s) at QIP 2024.
 
 Andrew M. Childs, Jiaqi Leng, Tongyang Li, Jin-Peng Liu, and **Chenyi Zhang**, [Quantum simulation of real-space dynamics](https://arxiv.org/abs/2203.17006). **Quantum**, 6:860, 2022.
 
