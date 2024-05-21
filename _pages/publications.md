@@ -9,14 +9,15 @@ sitemap: false
 ## Preprints
 
 (Unless marked as "by contribution", the authors of papers are listed alphabetically. * marks equal contribution.)
-(by contribution) **Chenyi Zhang** and Tongyang Li, [Comparisons Are All You Need for Optimizing Smooth Functions](https://arxiv.org/abs/2405.11454).
 
-Adam Bouland, Bill Fefferman, Soumik Ghosh, Tony Metger, Umesh Vazirani, **Chenyi Zhang**, and Zixin Zhou, [Public-key pseudoentanglement and the hardness of learning ground state entanglement structure](https://arxiv.org/abs/2311.12017). 
+(by contribution) **Chenyi Zhang** and Tongyang Li, [Comparisons Are All You Need for Optimizing Smooth Functions](https://arxiv.org/abs/2405.11454).
 
 (by contribution) Weiyuan Gong\*, **Chenyi Zhang**\*, and Tongyang Li, [Robustness of Quantum Algorithms for Nonconvex Optimization](https://arxiv.org/abs/2212.02548).
 
 ## Publications
-(by contribution) Hao Wang\*, **Chenyi Zhang**\*, and Tongyang Li, Near-Optimal Quantum Algorithm for Minimizing the Maximal Loss. ICLR 2024.
+Adam Bouland, Bill Fefferman, Soumik Ghosh, Tony Metger, Umesh Vazirani, **Chenyi Zhang**, and Zixin Zhou, [Public-key pseudoentanglement and the hardness of learning ground state entanglement structure](https://arxiv.org/abs/2311.12017). CCC 2024
+
+(by contribution) Hao Wang\*, **Chenyi Zhang**\*, and Tongyang Li, [Near-Optimal Quantum Algorithm for Minimizing the Maximal Loss](https://arxiv.org/abs/2402.12745). ICLR 2024.
 
 Scott Aaronson, Adam Bouland, Bill Fefferman, Soumik Ghosh, Umesh Vazirani, **Chenyi Zhang**, and Zixin Zhou, [Quantum Pseudoentanglement](https://arxiv.org/abs/2211.00747). ITCS 2024. [Talk](https://www.youtube.com/watch?v=4Nq_zzDg9go) at QIP 2023.
 
