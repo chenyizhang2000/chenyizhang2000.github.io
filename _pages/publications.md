@@ -9,6 +9,7 @@ sitemap: false
 ## Preprints
 
 (Unless marked as "by contribution", the authors of papers are listed alphabetically. * marks equal contribution.)
+(by contribution) **Chenyi Zhang** and Tongyang Li, [Comparisons Are All You Need for Optimizing Smooth Functions](https://arxiv.org/abs/2405.11454).
 
 Adam Bouland, Bill Fefferman, Soumik Ghosh, Tony Metger, Umesh Vazirani, **Chenyi Zhang**, and Zixin Zhou, [Public-key pseudoentanglement and the hardness of learning ground state entanglement structure](https://arxiv.org/abs/2311.12017). 
 
