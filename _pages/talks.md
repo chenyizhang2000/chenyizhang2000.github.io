@@ -10,7 +10,7 @@ Quantum Lower Bounds for Finding Stationary Points of Nonconvex Functions
 <br />
 INFORMS Optimization Society Conference, March 2024
 
-(Online)[Quantum Lower Bounds for Finding Stationary Points of Nonconvex Functions](https://www.youtube.com/watch?v=24ZJyB9JfTs&t=928s)
+(Online) [Quantum Lower Bounds for Finding Stationary Points of Nonconvex Functions](https://www.youtube.com/watch?v=24ZJyB9JfTs&t=928s)
 <br />
 QIP, Feburary 2024 
 
