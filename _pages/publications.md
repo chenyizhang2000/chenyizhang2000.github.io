@@ -15,6 +15,8 @@ sitemap: false
 (by contribution) Weiyuan Gong\*, **Chenyi Zhang**\*, and Tongyang Li, [Robustness of Quantum Algorithms for Nonconvex Optimization](https://arxiv.org/abs/2212.02548).
 
 ## Publications
+(by contribution) Yexin Zhang\*, **Chenyi Zhang**\*, Cong Fang, Liwei Wang, Tongyang Li, [Quantum Algorithms and Lower Bounds for Finite-Sum Optimization](https://arxiv.org/abs/2406.03006). ICML 2024
+
 Jiachen Hu, Tongyang Li, Xinzhao Wang, Yecheng Xue, **Chenyi Zhang**, Han Zhong, [Quantum Non-Identical Mean Estimation: Efficient Algorithms and Fundamental Limits](https://arxiv.org/abs/2405.12838). TQC 2024
 
 Adam Bouland, Bill Fefferman, Soumik Ghosh, Tony Metger, Umesh Vazirani, **Chenyi Zhang**, and Zixin Zhou, [Public-key pseudoentanglement and the hardness of learning ground state entanglement structure](https://arxiv.org/abs/2311.12017). CCC 2024
