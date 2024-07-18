@@ -7,3 +7,5 @@ sitemap: false
 ---
 
 Besides research, I enjoy traveling and various outdoor activities. 
+
+![plot](./images/bio-photo.jpg)
