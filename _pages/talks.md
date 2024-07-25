@@ -6,6 +6,14 @@ author_profile: true
 sitemap: false
 ---
 
+Public-key pseudoentanglement and the hardness of learning ground state entanglement structure
+<br />
+Computational Complexity Conference, July 2024
+
+Quantum speedups for stochastic optimization
+<br />
+International Symposium on Mathematical Programming, July 2024
+
 Quantum Lower Bounds for Finding Stationary Points of Nonconvex Functions
 <br />
 INFORMS Optimization Society Conference, March 2024
