@@ -19,7 +19,7 @@ sitemap: false
 
 Jiachen Hu, Tongyang Li, Xinzhao Wang, Yecheng Xue, **Chenyi Zhang**, Han Zhong, [Quantum Non-Identical Mean Estimation: Efficient Algorithms and Fundamental Limits](https://arxiv.org/abs/2405.12838). TQC 2024
 
-Adam Bouland, Bill Fefferman, Soumik Ghosh, Tony Metger, Umesh Vazirani, **Chenyi Zhang**, and Zixin Zhou, [Public-key pseudoentanglement and the hardness of learning ground state entanglement structure](https://arxiv.org/abs/2311.12017). CCC 2024
+Adam Bouland, Bill Fefferman, Soumik Ghosh, Tony Metger, Umesh Vazirani, **Chenyi Zhang**, and Zixin Zhou, [Public-key pseudoentanglement and the hardness of learning ground state entanglement structure](https://arxiv.org/abs/2311.12017). CCC 2024. [Talk](https://www.youtube.com/watch?v=siteV28Fb1U) at QIP 2024
 
 (by contribution) Hao Wang\*, **Chenyi Zhang**\*, and Tongyang Li, [Near-Optimal Quantum Algorithm for Minimizing the Maximal Loss](https://arxiv.org/abs/2402.12745). ICLR 2024.
 
