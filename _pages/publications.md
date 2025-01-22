@@ -10,13 +10,13 @@ sitemap: false
 
 (Unless marked as "by contribution", the authors of papers are listed alphabetically. * marks equal contribution.)
 
-Adam Bouland, **Chenyi Zhang**, and Zixin Zhou, [On the hardness of learning ground state entanglement of geometrically local Hamiltonians](https://arxiv.org/abs/2411.04353). 
+Adam Bouland, **Chenyi Zhang**, and Zixin Zhou, [On the hardness of learning ground state entanglement of geometrically local Hamiltonians](https://arxiv.org/abs/2411.04353). QIP 2025
 
 (by contribution) **Chenyi Zhang** and Tongyang Li, [Comparisons Are All You Need for Optimizing Smooth Functions](https://arxiv.org/abs/2405.11454).
 
-(by contribution) Weiyuan Gong\*, **Chenyi Zhang**\*, and Tongyang Li, [Robustness of Quantum Algorithms for Nonconvex Optimization](https://arxiv.org/abs/2212.02548).
-
 ## Publications
+(by contribution) Weiyuan Gong\*, **Chenyi Zhang**\*, and Tongyang Li, [Robustness of Quantum Algorithms for Nonconvex Optimization](https://arxiv.org/abs/2212.02548). ICLR 2025
+
 (by contribution) Yexin Zhang\*, **Chenyi Zhang**\*, Cong Fang, Liwei Wang, Tongyang Li, [Quantum Algorithms and Lower Bounds for Finite-Sum Optimization](https://arxiv.org/abs/2406.03006). ICML 2024
 
 Jiachen Hu, Tongyang Li, Xinzhao Wang, Yecheng Xue, **Chenyi Zhang**, Han Zhong, [Quantum Non-Identical Mean Estimation: Efficient Algorithms and Fundamental Limits](https://arxiv.org/abs/2405.12838). TQC 2024
