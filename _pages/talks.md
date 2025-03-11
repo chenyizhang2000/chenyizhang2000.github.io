@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 sitemap: false
 ---
+On the hardness of learning ground state entanglement of geometrically local Hamiltonians
+<br />
+QIP, Feburary 2025
 
 Public-key pseudoentanglement and the hardness of learning ground state entanglement structure
 <br />
@@ -20,7 +23,7 @@ INFORMS Optimization Society Conference, March 2024
 
 (Online) [Quantum Lower Bounds for Finding Stationary Points of Nonconvex Functions](https://www.youtube.com/watch?v=24ZJyB9JfTs&t=928s)
 <br />
-QIP, Feburary 2024 
+QIP, Feburary 2024
 
 Quantum Pseudoentanglement
 <br />
