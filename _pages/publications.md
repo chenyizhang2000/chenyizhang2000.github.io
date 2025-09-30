@@ -15,6 +15,11 @@ Adam Bouland, **Chenyi Zhang**, and Zixin Zhou, [On the hardness of learning gro
 (by contribution) **Chenyi Zhang** and Tongyang Li, [Comparisons Are All You Need for Optimizing Smooth Functions](https://arxiv.org/abs/2405.11454).
 
 ## Publications
+
+Deeksha Adil, Brian Bullins, Aaron Sidford, **Chenyi Zhang**, Balancing Gradient and Hessian Queries in Non-Convex Optimization. NeurIPS 2025
+
+Annie Marsden, Liam O'Carroll, Aaron Sidford, and **Chenyi Zhang**, Isotropic Noise in Stochastic and Quantum Convex Optimization. NeurIPS 2025
+
 (by contribution) Weiyuan Gong\*, **Chenyi Zhang**\*, and Tongyang Li, [Robustness of Quantum Algorithms for Nonconvex Optimization](https://arxiv.org/abs/2212.02548). ICLR 2025
 
 (by contribution) Yexin Zhang\*, **Chenyi Zhang**\*, Cong Fang, Liwei Wang, Tongyang Li, [Quantum Algorithms and Lower Bounds for Finite-Sum Optimization](https://arxiv.org/abs/2406.03006). ICML 2024
