@@ -5,17 +5,21 @@ permalink: /talks/
 author_profile: true
 sitemap: false
 ---
+Quantum speedups for stochastic optimization
+<br />
+International Conference on Continuous Optimization (ICCOPT), July 2025
+
 On the hardness of learning ground state entanglement of geometrically local Hamiltonians
 <br />
-QIP, Feburary 2025
+Quantum Information Processing (QIP), Feburary 2025
 
 Public-key pseudoentanglement and the hardness of learning ground state entanglement structure
 <br />
-Computational Complexity Conference, July 2024
+Computational Complexity Conference (CCC), July 2024
 
 Quantum speedups for stochastic optimization
 <br />
-International Symposium on Mathematical Programming, July 2024
+International Symposium on Mathematical Programming (ISMP), July 2024
 
 Quantum Lower Bounds for Finding Stationary Points of Nonconvex Functions
 <br />
@@ -23,7 +27,7 @@ INFORMS Optimization Society Conference, March 2024
 
 (Online) [Quantum Lower Bounds for Finding Stationary Points of Nonconvex Functions](https://www.youtube.com/watch?v=24ZJyB9JfTs&t=928s)
 <br />
-QIP, Feburary 2024
+Quantum Information Processing (QIP), Feburary 2024
 
 Quantum Pseudoentanglement
 <br />
