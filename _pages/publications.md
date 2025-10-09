@@ -10,6 +10,8 @@ sitemap: false
 
 (Unless marked as "by contribution", the authors of papers are listed alphabetically. * marks equal contribution.)
 
+David Gosset, Robin Kothari, **Chenyi Zhang**, [Multi-qubit Toffoli with exponentially fewer T gates](https://arxiv.org/abs/2510.07223).
+
 Adam Bouland, **Chenyi Zhang**, and Zixin Zhou, [On the hardness of learning ground state entanglement of geometrically local Hamiltonians](https://arxiv.org/abs/2411.04353). QIP 2025
 
 (by contribution) **Chenyi Zhang** and Tongyang Li, [Comparisons Are All You Need for Optimizing Smooth Functions](https://arxiv.org/abs/2405.11454).
