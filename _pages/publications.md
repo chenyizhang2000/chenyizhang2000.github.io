@@ -18,9 +18,9 @@ Adam Bouland, **Chenyi Zhang**, and Zixin Zhou, [On the hardness of learning gro
 
 ## Publications
 
-Deeksha Adil, Brian Bullins, Aaron Sidford, **Chenyi Zhang**, Balancing Gradient and Hessian Queries in Non-Convex Optimization. NeurIPS 2025
+Deeksha Adil, Brian Bullins, Aaron Sidford, **Chenyi Zhang**, [Balancing Gradient and Hessian Queries in Non-Convex Optimization](https://arxiv.org/abs/2510.20786). NeurIPS 2025
 
-Annie Marsden, Liam O'Carroll, Aaron Sidford, and **Chenyi Zhang**, Isotropic Noise in Stochastic and Quantum Convex Optimization. NeurIPS 2025
+Annie Marsden, Liam O'Carroll, Aaron Sidford, and **Chenyi Zhang**, [Isotropic Noise in Stochastic and Quantum Convex Optimization](https://arxiv.org/abs/2510.20745). NeurIPS 2025
 
 (by contribution) Weiyuan Gong\*, **Chenyi Zhang**\*, and Tongyang Li, [Robustness of Quantum Algorithms for Nonconvex Optimization](https://arxiv.org/abs/2212.02548). ICLR 2025
 
