@@ -38,14 +38,14 @@ Aaron Sidford and Chenyi Zhang, [Quantum speedups for stochastic optimization](h
 
 (by contribution) Chenyi Zhang and Tongyang Li, [Quantum Lower Bounds for Finding Stationary Points of Nonconvex Functions](https://arxiv.org/abs/2212.03906). ICML 2023. [Talk](https://www.youtube.com/watch?v=24ZJyB9JfTs&t=928s) at QIP 2024.
 
-Andrew M. Childs, Jiaqi Leng, Tongyang Li, Jin-Peng Liu, and Chenyi Zhang, [Quantum simulation of real-space dynamics](https://arxiv.org/abs/2203.17006). **Quantum**, 6:860, 2022.
+Andrew M. Childs, Jiaqi Leng, Tongyang Li, Jin-Peng Liu, and Chenyi Zhang, [Quantum simulation of real-space dynamics](https://arxiv.org/abs/2203.17006). Quantum, 6:860, 2022.
 
 (by contribution) Chenyi Zhang and Tongyang Li, [Escape saddle points by a simple gradient-descent based algorithm](https://arxiv.org/abs/2111.14069). NeurIPS 2021.
 
 (by contribution) Chenyi Zhang\*, 
 Jiaqi Leng\*, and
 Tongyang Li, [Quantum algorithms for escaping from saddle points](https://arxiv.org/abs/2007.10253v3). 
-**Quantum**, 5:529, 2021. [Contributed talk](https://www.youtube.com/watch?v=xbHqktWa354&list=PL5DZ45amUsqIaqE9EIemfc9LzeWzXnGY_&index=77) at QIP 2021.
+Quantum, 5:529, 2021. [Contributed talk](https://www.youtube.com/watch?v=xbHqktWa354&list=PL5DZ45amUsqIaqE9EIemfc9LzeWzXnGY_&index=77) at QIP 2021.
 
 
 <br />
