@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 sitemap: false
 ---
+Multi-qubit Toffoli with exponentially fewer T gates
+<br />
+Stanford CS Theory Seminar, January 2026
+
 Quantum speedups for stochastic optimization
 <br />
 International Conference on Continuous Optimization (ICCOPT), July 2025
