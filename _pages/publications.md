@@ -14,7 +14,8 @@ David Gosset, Robin Kothari, Chenyi Zhang, [Multi-qubit Toffoli with exponential
 
 Adam Bouland, Chenyi Zhang, and Zixin Zhou, [On the hardness of learning ground state entanglement of geometrically local Hamiltonians](https://arxiv.org/abs/2411.04353). Contributed talk at QIP 2025
 
-(by contribution) Chenyi Zhang and Tongyang Li, [Comparisons Are All You Need for Optimizing Smooth Functions](https://arxiv.org/abs/2405.11454).
+(by contribution) Xiwen Tao\*, Chenyi Zhang\*, Helin Wang, Yexin Zhang, and Tongyang Li, [Gradient Testing and Estimation by Comparisons
+](https://arxiv.org/abs/2405.11454).
 
 ## Publications
 
