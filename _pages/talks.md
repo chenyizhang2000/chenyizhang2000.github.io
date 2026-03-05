@@ -7,6 +7,14 @@ sitemap: false
 ---
 Multi-qubit Toffoli with exponentially fewer T gates
 <br />
+UC Davis Joint Math/CS Theory, March 2026
+
+Multi-qubit Toffoli with exponentially fewer T gates
+<br />
+Stanford QFarm Seminar, Feburary 2026
+
+Multi-qubit Toffoli with exponentially fewer T gates
+<br />
 Stanford CS Theory Seminar, January 2026
 
 Quantum speedups for stochastic optimization
