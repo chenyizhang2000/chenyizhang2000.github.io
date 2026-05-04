@@ -16,7 +16,7 @@ Adam Bouland, Chenyi Zhang, and Zixin Zhou, [On the hardness of learning ground 
 
 ## Publications
 
-Sander Gribling, Aaron Sidford (Stanford University), and Chenyi Zhang, Computing Lewis weights to high precision using local relative smoothness. COLT 2026
+Sander Gribling, Aaron Sidford, and Chenyi Zhang, Computing Lewis weights to high precision using local relative smoothness. COLT 2026
 
 (by contribution) Helin Wang\*, Chenyi Zhang\*, Xiwen Tao, Yexin Zhang, and Tongyang Li, Finding Stationary Points by Comparisons. ICML 2026
 
