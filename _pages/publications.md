@@ -10,13 +10,13 @@ sitemap: false
 
 (Unless marked as "by contribution", the authors of papers are listed alphabetically. * marks equal contribution.)
 
-David Gosset, Robin Kothari, Chenyi Zhang, [Multi-qubit Toffoli with exponentially fewer T gates](https://arxiv.org/abs/2510.07223). **Long plenary talk** at QIP 2026 (to appear, 3 of 148 accepted talks).
+David Gosset, Robin Kothari, Chenyi Zhang, [Multi-qubit Toffoli with Exponentially Fewer T Gates](https://arxiv.org/abs/2510.07223). **Long plenary talk** at QIP 2026 (to appear, 3 of 148 accepted talks).
 
-Adam Bouland, Chenyi Zhang, and Zixin Zhou, [On the hardness of learning ground state entanglement of geometrically local Hamiltonians](https://arxiv.org/abs/2411.04353). Contributed talk at QIP 2025
+Adam Bouland, Chenyi Zhang, and Zixin Zhou, [On the Hardness of Learning Ground State Entanglement of Geometrically Local Hamiltonians](https://arxiv.org/abs/2411.04353). Contributed talk at QIP 2025
 
 ## Publications
 
-Sander Gribling, Aaron Sidford, and Chenyi Zhang, Computing Lewis weights to high precision using local relative smoothness. COLT 2026
+Sander Gribling, Aaron Sidford, and Chenyi Zhang, Computing Lewis Weights to High Precision Using Local Relative Smoothness. COLT 2026
 
 (by contribution) Helin Wang\*, Chenyi Zhang\*, Xiwen Tao, Yexin Zhang, and Tongyang Li, Finding Stationary Points by Comparisons. ICML 2026
 
