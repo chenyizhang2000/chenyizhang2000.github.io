@@ -7,7 +7,11 @@ sitemap: false
 ---
 Multi-qubit Toffoli with exponentially fewer T gates
 <br />
-UC Davis Joint Math/CS Theory, March 2026
+UW CSE Theory Talks, April 2026
+
+Multi-qubit Toffoli with exponentially fewer T gates
+<br />
+UC Davis Joint Math/CS Theory Seminar, March 2026
 
 Multi-qubit Toffoli with exponentially fewer T gates
 <br />
