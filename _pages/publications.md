@@ -12,7 +12,10 @@ sitemap: false
 
 David Gosset, Robin Kothari, Chenyi Zhang, [Multi-qubit Toffoli with Exponentially Fewer T Gates](https://arxiv.org/abs/2510.07223). **Long plenary talk** at QIP 2026 (to appear, 3 of 148 accepted talks).
 
+(by contribution) Yuexin Su, Chenyi Zhang, Peiyuan Huang, Tongyang Li, Yinyu Ye, [Scalable First-Order Interior Point Trust Region Algorithms for Linearly Constrained Optimization](https://arxiv.org/abs/2604.24488).
+
 Adam Bouland, Chenyi Zhang, and Zixin Zhou, [On the Hardness of Learning Ground State Entanglement of Geometrically Local Hamiltonians](https://arxiv.org/abs/2411.04353). Contributed talk at QIP 2025
+
 
 ## Publications
 
