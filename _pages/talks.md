@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 sitemap: false
 ---
+Computing Lewis weights to high precision using local relative smoothness
+<br />
+Conference on Learning Theory (COLT), July 2026
+
 Multi-qubit Toffoli with exponentially fewer T gates
 <br />
 UW CSE Theory Talks, April 2026
