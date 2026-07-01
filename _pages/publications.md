@@ -19,12 +19,11 @@ Adam Bouland, Chenyi Zhang, and Zixin Zhou, [On the Hardness of Learning Ground 
 
 ## Publications
 
-Sander Gribling, Aaron Sidford, and Chenyi Zhang, Computing Lewis Weights to High Precision Using Local Relative Smoothness. COLT 2026
+Sander Gribling, Aaron Sidford, and Chenyi Zhang, [Computing Lewis Weights to High Precision Using Local Relative Smoothness](https://arxiv.org/abs/2606.29186). COLT 2026
 
 (by contribution) Helin Wang\*, Chenyi Zhang\*, Xiwen Tao, Yexin Zhang, and Tongyang Li, Finding Stationary Points by Comparisons. ICML 2026
 
-(by contribution) Xiwen Tao\*, Chenyi Zhang\*, Helin Wang, Yexin Zhang, and Tongyang Li, [Gradient Testing and Estimation by Comparisons
-](https://arxiv.org/abs/2405.11454). ICML 2026
+(by contribution) Xiwen Tao\*, Chenyi Zhang\*, Helin Wang, Yexin Zhang, and Tongyang Li, [Gradient Testing and Estimation by Comparisons](https://arxiv.org/abs/2405.11454). ICML 2026
 
 Deeksha Adil, Brian Bullins, Aaron Sidford, Chenyi Zhang, [Balancing Gradient and Hessian Queries in Non-Convex Optimization](https://arxiv.org/abs/2510.20786). NeurIPS 2025
 
