@@ -18,6 +18,11 @@ Student Researcher at Google Quantum AI (June 2025 - September 2025). Hosted by 
 2022, Shoucheng Zhang Graduate Fellowship, Stanford University
 
 2017, Gold Medal, Chinese Physics Olympiad (Top 100 around China)
+
+## Service
+
+PC member: QIP 2027
+
 <br />
 <br />
 <br />
