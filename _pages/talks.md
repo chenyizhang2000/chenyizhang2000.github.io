@@ -21,7 +21,6 @@ sitemap: false
 
 - International Conference on Continuous Optimization (ICCOPT), July 2025
 - International Symposium on Mathematical Programming (ISMP), July 2024
-- Pre-recorded talk at NeurIPS, November 2023 ([recording](https://recorder-v3.slideslive.com/?share=88602&s=8db9eb5c-9669-4695-aaf1-12239a81d4b6))
 - Stanford QIQC seminar, September 2023
 
 **On the hardness of learning ground state entanglement of geometrically local Hamiltonians**
