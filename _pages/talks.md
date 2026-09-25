@@ -5,58 +5,38 @@ permalink: /talks/
 author_profile: true
 sitemap: false
 ---
-Computing Lewis weights to high precision using local relative smoothness
-<br />
-Conference on Learning Theory (COLT), July 2026
 
-Multi-qubit Toffoli with exponentially fewer T gates
-<br />
-UW CSE Theory Talks, April 2026
+**Computing Lewis weights to high precision using local relative smoothness**
 
-Multi-qubit Toffoli with exponentially fewer T gates
-<br />
-UC Davis Joint Math/CS Theory Seminar, March 2026
+- Conference on Learning Theory (COLT), July 2026
 
-Multi-qubit Toffoli with exponentially fewer T gates
-<br />
-Stanford QFarm Seminar, Feburary 2026
+**Multi-qubit Toffoli with exponentially fewer T gates**
 
-Multi-qubit Toffoli with exponentially fewer T gates
-<br />
-Stanford CS Theory Seminar, January 2026
+- UW CSE Theory Talks, April 2026
+- UC Davis Joint Math/CS Theory Seminar, March 2026
+- Stanford QFarm Seminar, February 2026
+- Stanford CS Theory Seminar, January 2026
 
-Quantum speedups for stochastic optimization
-<br />
-International Conference on Continuous Optimization (ICCOPT), July 2025
+**Quantum speedups for stochastic optimization**
 
-On the hardness of learning ground state entanglement of geometrically local Hamiltonians
-<br />
-Quantum Information Processing (QIP), Feburary 2025
+- International Conference on Continuous Optimization (ICCOPT), July 2025
+- International Symposium on Mathematical Programming (ISMP), July 2024
+- Pre-recorded talk at NeurIPS, November 2023 ([recording](https://recorder-v3.slideslive.com/?share=88602&s=8db9eb5c-9669-4695-aaf1-12239a81d4b6))
+- Stanford QIQC seminar, September 2023
 
-Public-key pseudoentanglement and the hardness of learning ground state entanglement structure
-<br />
-Computational Complexity Conference (CCC), July 2024
+**On the hardness of learning ground state entanglement of geometrically local Hamiltonians**
 
-Quantum speedups for stochastic optimization
-<br />
-International Symposium on Mathematical Programming (ISMP), July 2024
+- Quantum Information Processing (QIP), February 2025
 
-Quantum Lower Bounds for Finding Stationary Points of Nonconvex Functions
-<br />
-INFORMS Optimization Society Conference, March 2024
+**Public-key pseudoentanglement and the hardness of learning ground state entanglement structure**
 
-(Online) [Quantum Lower Bounds for Finding Stationary Points of Nonconvex Functions](https://www.youtube.com/watch?v=24ZJyB9JfTs&t=928s)
-<br />
-Quantum Information Processing (QIP), Feburary 2024
+- Computational Complexity Conference (CCC), July 2024
 
-Quantum Pseudoentanglement
-<br />
-QuantISED meeting on quantum gravity, quantum complexity, and open quantum systems, October 2023
+**Quantum Lower Bounds for Finding Stationary Points of Nonconvex Functions**
 
-Quantum speedups for stochastic optimization
-<br />
-Stanford QIQC seminar, September 2023
+- INFORMS Optimization Society Conference, March 2024
+- Quantum Information Processing (QIP), February 2024 (online; [recording](https://www.youtube.com/watch?v=24ZJyB9JfTs&t=928s))
 
-[Quantum speedups for stochastic optimization](https://recorder-v3.slideslive.com/?share=88602&s=8db9eb5c-9669-4695-aaf1-12239a81d4b6)
-<br />
-Pre-recorded talk at NeurIPS, November 2023
+**Quantum Pseudoentanglement**
+
+- QuantISED meeting on quantum gravity, quantum complexity, and open quantum systems, October 2023
