@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year CS Theory PhD student at [Stanford University](https://cs.stanford.edu). I'm fortunate to be advised by [Adam Bouland](https://theory.stanford.edu/~abouland/) and [Aaron Sidford](https://www.aaronsidford.com). Previously, I was an undergraduate student at Yao Class, Tsinghua University.
+I am a fifth-year CS Theory PhD student at [Stanford University](https://cs.stanford.edu). I'm fortunate to be advised by [Adam Bouland](https://theory.stanford.edu/~abouland/) and [Aaron Sidford](https://www.aaronsidford.com). Previously, I was an undergraduate student at Yao Class, Tsinghua University.
 
 ## Industry experience
+Applied Scientist Intern at AWS Center for Quantum Computing (June 2026 - September 2026). Hosted by Alex Dalzell.
 
 Student Researcher at Google Quantum AI (June 2025 - September 2025). Hosted by [Robin Kothari](https://www.robinkothari.com).
 
