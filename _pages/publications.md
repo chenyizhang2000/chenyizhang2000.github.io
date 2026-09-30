@@ -19,6 +19,8 @@ Adam Bouland, Chenyi Zhang, and Zixin Zhou, [On the Hardness of Learning Ground 
 
 ## Publications
 
+Shunhua Jiang, Lawrence Li, Aaron Sidford, Chenyi Zhang, Two-Sparse Finite-Sum Optimization. SODA 2027
+
 Sander Gribling, Aaron Sidford, and Chenyi Zhang, [Computing Lewis Weights to High Precision Using Local Relative Smoothness](https://arxiv.org/abs/2606.29186). COLT 2026
 
 (by contribution) Helin Wang\*, Chenyi Zhang\*, Xiwen Tao, Yexin Zhang, and Tongyang Li, [Finding Stationary Points by Comparisons](https://arxiv.org/abs/2606.27082). ICML 2026
