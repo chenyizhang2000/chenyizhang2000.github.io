@@ -18,6 +18,10 @@ Shunhua Jiang, Lawrence Li, Aaron Sidford, Chenyi Zhang, Two-Sparse Finite-Sum O
 
 Sander Gribling, Aaron Sidford, and Chenyi Zhang, [Computing Lewis Weights to High Precision Using Local Relative Smoothness](https://arxiv.org/abs/2606.29186). COLT 2026
 
+(by contribution) Helin Wang*, Chenyi Zhang*, Xiwen Tao, Yexin Zhang, and Tongyang Li, [Finding Stationary Points by Comparisons](https://arxiv.org/abs/2606.27082). ICML 2026
+
+(by contribution) Xiwen Tao*, Chenyi Zhang*, Helin Wang, Yexin Zhang, and Tongyang Li, [Gradient Testing and Estimation by Comparisons](https://arxiv.org/abs/2405.11454). ICML 2026
+
 Deeksha Adil, Brian Bullins, Aaron Sidford, Chenyi Zhang, [Balancing Gradient and Hessian Queries in Non-Convex Optimization](https://arxiv.org/abs/2510.20786). NeurIPS 2025
 
 Scott Aaronson, Adam Bouland, Bill Fefferman, Soumik Ghosh, Umesh Vazirani, Chenyi Zhang, and Zixin Zhou, [Quantum Pseudoentanglement](https://arxiv.org/abs/2211.00747). ITCS 2024. [Talk](https://www.youtube.com/watch?v=4Nq_zzDg9go) at QIP 2023.
