@@ -8,6 +8,8 @@ sitemap: false
 
 (Unless marked as "by contribution", the authors of papers are listed alphabetically. * marks equal contribution.)
 
+Adam Bouland, Victor Shyaka, and Chenyi Zhang, [Breaking the cubic barrier for the inverse-free Solovay-Kitaev algorithm](https://arxiv.org/abs/2610.03655).
+
 (Reverse alphabetical order) Chenyi Zhang, Xinyu Tan, Robin Kothari, David Gosset, Craig Gidney, [Quantum circuit compilation with constant overhead](https://arxiv.org/abs/2609.39092).
 
 David Gosset, Robin Kothari, Chenyi Zhang, [Multi-qubit Toffoli with Exponentially Fewer T Gates](https://arxiv.org/abs/2510.07223). **Long plenary talk** at QIP 2026 (to appear, 3 of 148 accepted talks).
