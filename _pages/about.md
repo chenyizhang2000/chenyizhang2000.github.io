@@ -24,7 +24,7 @@ Student Researcher at Google Quantum AI (June 2025 - September 2025). Hosted by 
 
 PC member: QIP 2027
 
-Conference reviewer: STOC, FOCS, QIP, ICML, NeurIPS, ICLR, SODA, ITCS for many years
+Conference reviewer: QIP, STOC, FOCS, ICML, NeurIPS, ICLR, SODA, ITCS for many years
 
 Journal reviewer: Nature physics, Quantum
 
