@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: "Papers"
+title: "Selected papers"
 permalink: /publications/
 author_profile: true
 sitemap: false
 ---
-
-## Selected Preprints & Publications
 
 (Unless marked as "by contribution", the authors of papers are listed alphabetically. * marks equal contribution.)
 
