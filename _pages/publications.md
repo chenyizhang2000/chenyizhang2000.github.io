@@ -8,7 +8,7 @@ sitemap: false
 
 (Unless marked as "by contribution", the authors of papers are listed alphabetically. * marks equal contribution.)
 
-Adam Bouland, Victor Shyaka, and Chenyi Zhang, [Breaking the cubic barrier for the inverse-free Solovay-Kitaev algorithm](https://arxiv.org/abs/2610.03655).
+Adam Bouland, Victor Shyaka, Chenyi Zhang, [Breaking the cubic barrier for the inverse-free Solovay-Kitaev algorithm](https://arxiv.org/abs/2610.03655).
 
 (Reverse alphabetical order) Chenyi Zhang, Xinyu Tan, Robin Kothari, David Gosset, Craig Gidney, [Quantum circuit compilation with constant overhead](https://arxiv.org/abs/2609.39092).
 
@@ -18,9 +18,9 @@ Shunhua Jiang, Lawrence Li, Aaron Sidford, Chenyi Zhang, Two-Sparse Finite-Sum O
 
 Sander Gribling, Aaron Sidford, and Chenyi Zhang, [Computing Lewis Weights to High Precision Using Local Relative Smoothness](https://arxiv.org/abs/2606.29186). COLT 2026
 
-(by contribution) Helin Wang*, Chenyi Zhang*, Xiwen Tao, Yexin Zhang, and Tongyang Li, [Finding Stationary Points by Comparisons](https://arxiv.org/abs/2606.27082). ICML 2026
+(by contribution) Helin Wang*, Chenyi Zhang*, Xiwen Tao, Yexin Zhang, Tongyang Li, [Finding Stationary Points by Comparisons](https://arxiv.org/abs/2606.27082). ICML 2026
 
-(by contribution) Xiwen Tao*, Chenyi Zhang*, Helin Wang, Yexin Zhang, and Tongyang Li, [Gradient Testing and Estimation by Comparisons](https://arxiv.org/abs/2405.11454). ICML 2026
+(by contribution) Xiwen Tao*, Chenyi Zhang*, Helin Wang, Yexin Zhang, Tongyang Li, [Gradient Testing and Estimation by Comparisons](https://arxiv.org/abs/2405.11454). ICML 2026
 
 Deeksha Adil, Brian Bullins, Aaron Sidford, Chenyi Zhang, [Balancing Gradient and Hessian Queries in Non-Convex Optimization](https://arxiv.org/abs/2510.20786). NeurIPS 2025
 
