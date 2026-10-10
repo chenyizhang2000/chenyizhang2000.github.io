@@ -12,9 +12,9 @@ Adam Bouland, Victor Shyaka, Chenyi Zhang, [Breaking the cubic barrier for the i
 
 (Reverse alphabetical order) Chenyi Zhang, Xinyu Tan, Robin Kothari, David Gosset, Craig Gidney, [Quantum circuit compilation with constant overhead](https://arxiv.org/abs/2609.39092).
 
-David Gosset, Robin Kothari, Chenyi Zhang, [Multi-qubit Toffoli with Exponentially Fewer T Gates](https://arxiv.org/abs/2510.07223). **Long plenary talk** at QIP 2026 (to appear, 3 of 148 accepted talks).
+David Gosset, Robin Kothari, Chenyi Zhang, [Multi-qubit Toffoli with Exponentially Fewer T Gates](https://arxiv.org/abs/2510.07223). **Long plenary talk** at QIP 2026 (3 of 148 accepted talks).
 
-Shunhua Jiang, Lawrence Li, Aaron Sidford, Chenyi Zhang, Two-Sparse Finite-Sum Optimization. SODA 2027
+Shunhua Jiang, Lawrence Li, Aaron Sidford, Chenyi Zhang, Two-Sparse Finite-Sum Optimization. SODA 2027 (to appear)
 
 Sander Gribling, Aaron Sidford, and Chenyi Zhang, [Computing Lewis Weights to High Precision Using Local Relative Smoothness](https://arxiv.org/abs/2606.29186). COLT 2026
 
