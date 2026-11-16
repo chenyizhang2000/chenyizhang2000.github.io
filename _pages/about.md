@@ -10,6 +10,8 @@ redirect_from:
 
 I am a fifth-year CS Theory PhD student at [Stanford University](https://cs.stanford.edu). I'm fortunate to be advised by [Adam Bouland](https://theory.stanford.edu/~abouland/) and [Aaron Sidford](https://www.aaronsidford.com). Previously, I was an undergraduate student at Yao Class, Tsinghua University.
 
+I work on quantum algorithms and optimization theory.
+
 ## Industry experience
 Applied Scientist Intern at AWS Center for Quantum Computing (June 2026 - September 2026). Hosted by Alex Dalzell.
 
