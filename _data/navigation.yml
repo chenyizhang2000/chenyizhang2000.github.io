@@ -1,10 +1,7 @@
 # main links links
 main:
-  - title: "Selected papers"
+  - title: "Papers"
     url: /publications/
-
-  - title: "All papers"
-    url: /publications/all/
 
   - title: "Talks"
     url: /talks/
