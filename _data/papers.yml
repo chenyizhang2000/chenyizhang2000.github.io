@@ -1,0 +1,159 @@
+# Year is the publication year, or the first preprint year for unpublished work.
+# selected_order preserves the order of the selected papers page.
+- title: Two-sparse finite-sum optimization
+  authors: Shunhua Jiang, Lawrence Li, Aaron Sidford, Chenyi Zhang
+  year: 2027
+  venue: SODA 2027 (to appear)
+  selected_order: 4
+
+- title: Breaking the cubic barrier for the inverse-free Solovay-Kitaev algorithm
+  authors: Adam Bouland, Victor Shyaka, Chenyi Zhang
+  year: 2026
+  venue: Preprint
+  arxiv: https://arxiv.org/abs/2610.03655
+  selected_order: 1
+
+- title: Quantum circuit compilation with constant overhead
+  authors: Chenyi Zhang, Xinyu Tan, Robin Kothari, David Gosset, Craig Gidney
+  author_order: reverse alphabetical order
+  year: 2026
+  venue: Preprint
+  arxiv: https://arxiv.org/abs/2609.39092
+  selected_order: 2
+
+- title: Computing Lewis weights to high precision using local relative smoothness
+  authors: Sander Gribling, Aaron Sidford, Chenyi Zhang
+  year: 2026
+  venue: COLT 2026
+  arxiv: https://arxiv.org/abs/2606.29186
+  selected_order: 5
+
+- title: Finding stationary points by comparisons
+  authors: Helin Wang*, Chenyi Zhang*, Xiwen Tao, Yexin Zhang, Tongyang Li
+  author_order: by contribution
+  year: 2026
+  venue: ICML 2026
+  arxiv: https://arxiv.org/abs/2606.27082
+  selected_order: 6
+
+- title: Gradient testing and estimation by comparisons
+  authors: Xiwen Tao*, Chenyi Zhang*, Helin Wang, Yexin Zhang, Tongyang Li
+  author_order: by contribution
+  year: 2026
+  venue: ICML 2026
+  arxiv: https://arxiv.org/abs/2405.11454
+  selected_order: 7
+
+- title: Scalable first-order interior point trust region algorithms for linearly constrained optimization
+  authors: Yuexin Su, Chenyi Zhang, Peiyuan Huang, Tongyang Li, Yinyu Ye
+  author_order: by contribution
+  year: 2026
+  venue: Preprint
+  arxiv: https://arxiv.org/abs/2604.24488
+
+- title: Multi-qubit Toffoli with exponentially fewer T gates
+  authors: David Gosset, Robin Kothari, Chenyi Zhang
+  year: 2025
+  venue: Preprint
+  arxiv: https://arxiv.org/abs/2510.07223
+  note: "**Long plenary talk** at QIP 2026 (3 of 148 accepted talks)."
+  selected_order: 3
+
+- title: Balancing gradient and Hessian queries in non-convex optimization
+  authors: Deeksha Adil, Brian Bullins, Aaron Sidford, Chenyi Zhang
+  year: 2025
+  venue: NeurIPS 2025
+  arxiv: https://arxiv.org/abs/2510.20786
+  selected_order: 8
+
+- title: Isotropic noise in stochastic and quantum convex optimization
+  authors: Annie Marsden, Liam O'Carroll, Aaron Sidford, Chenyi Zhang
+  year: 2025
+  venue: NeurIPS 2025
+  arxiv: https://arxiv.org/abs/2510.20745
+
+- title: Robustness of quantum algorithms for nonconvex optimization
+  authors: Weiyuan Gong*, Chenyi Zhang*, Tongyang Li
+  author_order: by contribution
+  year: 2025
+  venue: ICLR 2025
+  arxiv: https://arxiv.org/abs/2212.02548
+
+- title: On the hardness of learning ground state entanglement of geometrically local Hamiltonians
+  authors: Adam Bouland, Chenyi Zhang, Zixin Zhou
+  year: 2024
+  venue: Preprint
+  arxiv: https://arxiv.org/abs/2411.04353
+  note: Contributed talk at QIP 2025.
+
+- title: Quantum algorithms and lower bounds for finite-sum optimization
+  authors: Yexin Zhang*, Chenyi Zhang*, Cong Fang, Liwei Wang, Tongyang Li
+  author_order: by contribution
+  year: 2024
+  venue: ICML 2024
+  arxiv: https://arxiv.org/abs/2406.03006
+
+- title: "Quantum non-identical mean estimation: efficient algorithms and fundamental limits"
+  authors: Jiachen Hu, Tongyang Li, Xinzhao Wang, Yecheng Xue, Chenyi Zhang, Han Zhong
+  year: 2024
+  venue: TQC 2024
+  arxiv: https://arxiv.org/abs/2405.12838
+
+- title: Public-key pseudoentanglement and the hardness of learning ground state entanglement structure
+  authors: Adam Bouland, Bill Fefferman, Soumik Ghosh, Tony Metger, Umesh Vazirani, Chenyi Zhang, Zixin Zhou
+  year: 2024
+  venue: CCC 2024
+  arxiv: https://arxiv.org/abs/2311.12017
+  note: "[Talk](https://www.youtube.com/watch?v=siteV28Fb1U) at QIP 2024."
+
+- title: Near-optimal quantum algorithm for minimizing the maximal loss
+  authors: Hao Wang*, Chenyi Zhang*, Tongyang Li
+  author_order: by contribution
+  year: 2024
+  venue: ICLR 2024
+  arxiv: https://arxiv.org/abs/2402.12745
+
+- title: Quantum pseudoentanglement
+  authors: Scott Aaronson, Adam Bouland, Bill Fefferman, Soumik Ghosh, Umesh Vazirani, Chenyi Zhang, Zixin Zhou
+  year: 2024
+  venue: ITCS 2024
+  arxiv: https://arxiv.org/abs/2211.00747
+  note: "[Talk](https://www.youtube.com/watch?v=4Nq_zzDg9go) at QIP 2023."
+  selected_order: 9
+
+- title: Quantum speedups for stochastic optimization
+  authors: Aaron Sidford, Chenyi Zhang
+  year: 2023
+  venue: NeurIPS 2023
+  arxiv: https://arxiv.org/abs/2308.01582
+  note: "[Pre-recorded talk](https://recorder-v3.slideslive.com/?share=88602&s=8db9eb5c-9669-4695-aaf1-12239a81d4b6)."
+  selected_order: 10
+
+- title: Quantum lower bounds for finding stationary points of nonconvex functions
+  authors: Chenyi Zhang, Tongyang Li
+  author_order: by contribution
+  year: 2023
+  venue: ICML 2023
+  arxiv: https://arxiv.org/abs/2212.03906
+  note: "[Talk](https://www.youtube.com/watch?v=24ZJyB9JfTs&t=928s) at QIP 2024."
+
+- title: Quantum simulation of real-space dynamics
+  authors: Andrew M. Childs, Jiaqi Leng, Tongyang Li, Jin-Peng Liu, Chenyi Zhang
+  year: 2022
+  venue: Quantum 6, 860 (2022)
+  arxiv: https://arxiv.org/abs/2203.17006
+
+- title: Escape saddle points by a simple gradient-descent based algorithm
+  authors: Chenyi Zhang, Tongyang Li
+  author_order: by contribution
+  year: 2021
+  venue: NeurIPS 2021
+  arxiv: https://arxiv.org/abs/2111.14069
+
+- title: Quantum algorithms for escaping from saddle points
+  authors: Chenyi Zhang*, Jiaqi Leng*, Tongyang Li
+  author_order: by contribution
+  year: 2021
+  venue: Quantum 5, 529 (2021)
+  arxiv: https://arxiv.org/abs/2007.10253
+  note: "[Contributed talk](https://www.youtube.com/watch?v=xbHqktWa354&list=PL5DZ45amUsqIaqE9EIemfc9LzeWzXnGY_&index=77) at QIP 2021."

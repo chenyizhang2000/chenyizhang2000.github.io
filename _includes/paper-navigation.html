@@ -1,0 +1,9 @@
+<nav aria-label="Paper lists">
+  <p>
+    <a href="{{ '/publications/' | relative_url }}"{% if page.paper_list == 'selected' %} aria-current="page"{% endif %}>{% if page.paper_list == 'selected' %}<strong>Selected papers</strong>{% else %}Selected papers{% endif %}</a>
+    &middot;
+    <a href="{{ '/publications/all/' | relative_url }}"{% if page.paper_list == 'all' %} aria-current="page"{% endif %}>{% if page.paper_list == 'all' %}<strong>All papers</strong>{% else %}All papers{% endif %}</a>
+  </p>
+</nav>
+
+<p>Authors are listed alphabetically unless otherwise noted. * marks equal contribution.</p>
