@@ -6,6 +6,10 @@ author_profile: true
 sitemap: false
 ---
 
+**Towards LLM Harnesses for Theoretical Quantum CS Research: A Proof of Concept**
+
+- Stanford QIQC seminar, October 2026
+
 **Computing Lewis weights to high precision using local relative smoothness**
 
 - Conference on Learning Theory (COLT), July 2026
