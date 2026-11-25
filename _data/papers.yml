@@ -12,14 +12,14 @@
   year: 2026
   venue: Preprint
   arxiv: https://arxiv.org/abs/2609.39092
-  selected_order: 2
+  selected_order: 1
 
 - title: Breaking the cubic barrier for the inverse-free Solovay-Kitaev algorithm
   authors: Adam Bouland, Victor Shyaka, Chenyi Zhang
   year: 2026
   venue: Preprint
   arxiv: https://arxiv.org/abs/2610.03655
-  selected_order: 1
+  selected_order: 2
 
 - title: Computing Lewis weights to high precision using local relative smoothness
   authors: Sander Gribling, Aaron Sidford, and Chenyi Zhang
