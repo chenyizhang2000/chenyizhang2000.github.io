@@ -6,13 +6,6 @@
   venue: SODA 2027 (to appear)
   selected_order: 4
 
-- title: Breaking the cubic barrier for the inverse-free Solovay-Kitaev algorithm
-  authors: Adam Bouland, Victor Shyaka, Chenyi Zhang
-  year: 2026
-  venue: Preprint
-  arxiv: https://arxiv.org/abs/2610.03655
-  selected_order: 1
-
 - title: Quantum circuit compilation with constant overhead
   authors: Chenyi Zhang, Xinyu Tan, Robin Kothari, David Gosset, Craig Gidney
   author_order: Reverse alphabetical order
@@ -20,6 +13,13 @@
   venue: Preprint
   arxiv: https://arxiv.org/abs/2609.39092
   selected_order: 2
+
+- title: Breaking the cubic barrier for the inverse-free Solovay-Kitaev algorithm
+  authors: Adam Bouland, Victor Shyaka, Chenyi Zhang
+  year: 2026
+  venue: Preprint
+  arxiv: https://arxiv.org/abs/2610.03655
+  selected_order: 1
 
 - title: Computing Lewis weights to high precision using local relative smoothness
   authors: Sander Gribling, Aaron Sidford, and Chenyi Zhang
@@ -43,13 +43,6 @@
   venue: ICML 2026
   arxiv: https://arxiv.org/abs/2405.11454
   selected_order: 7
-
-- title: Scalable first-order interior point trust region algorithms for linearly constrained optimization
-  authors: Yuexin Su, Chenyi Zhang, Peiyuan Huang, Tongyang Li, Yinyu Ye
-  author_order: by contribution
-  year: 2026
-  venue: Preprint
-  arxiv: https://arxiv.org/abs/2604.24488
 
 - title: Multi-qubit Toffoli with exponentially fewer T gates
   authors: David Gosset, Robin Kothari, Chenyi Zhang
@@ -85,6 +78,13 @@
   venue: Preprint
   arxiv: https://arxiv.org/abs/2411.04353
   note: Contributed talk at QIP 2025.
+
+- title: Scalable first-order interior point trust region algorithms for linearly constrained optimization
+  authors: Yuexin Su, Chenyi Zhang, Peiyuan Huang, Tongyang Li, Yinyu Ye
+  author_order: by contribution
+  year: 2026
+  venue: Preprint
+  arxiv: https://arxiv.org/abs/2604.24488
 
 - title: Quantum algorithms and lower bounds for finite-sum optimization
   authors: Yexin Zhang*, Chenyi Zhang*, Cong Fang, Liwei Wang, Tongyang Li
