@@ -15,14 +15,14 @@
 
 - title: Quantum circuit compilation with constant overhead
   authors: Chenyi Zhang, Xinyu Tan, Robin Kothari, David Gosset, Craig Gidney
-  author_order: reverse alphabetical order
+  author_order: Reverse alphabetical order
   year: 2026
   venue: Preprint
   arxiv: https://arxiv.org/abs/2609.39092
   selected_order: 2
 
 - title: Computing Lewis weights to high precision using local relative smoothness
-  authors: Sander Gribling, Aaron Sidford, Chenyi Zhang
+  authors: Sander Gribling, Aaron Sidford, and Chenyi Zhang
   year: 2026
   venue: COLT 2026
   arxiv: https://arxiv.org/abs/2606.29186
@@ -114,7 +114,7 @@
   arxiv: https://arxiv.org/abs/2402.12745
 
 - title: Quantum pseudoentanglement
-  authors: Scott Aaronson, Adam Bouland, Bill Fefferman, Soumik Ghosh, Umesh Vazirani, Chenyi Zhang, Zixin Zhou
+  authors: Scott Aaronson, Adam Bouland, Bill Fefferman, Soumik Ghosh, Umesh Vazirani, Chenyi Zhang, and Zixin Zhou
   year: 2024
   venue: ITCS 2024
   arxiv: https://arxiv.org/abs/2211.00747
@@ -122,7 +122,7 @@
   selected_order: 9
 
 - title: Quantum speedups for stochastic optimization
-  authors: Aaron Sidford, Chenyi Zhang
+  authors: Aaron Sidford and Chenyi Zhang
   year: 2023
   venue: NeurIPS 2023
   arxiv: https://arxiv.org/abs/2308.01582
