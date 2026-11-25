@@ -8,12 +8,18 @@ paper_list: all
 
 {% include paper-navigation.html %}
 
-{% assign years = site.data.papers | group_by: 'year' | sort: 'name' | reverse %}
-{% for year in years %}
-## {{ year.name }}
+## Preprints
 
-{% for paper in year.items %}
+{% assign preprints = site.data.papers | where: 'venue', 'Preprint' %}
+{% for paper in preprints %}
 {% include paper-entry.md paper=paper %}
 
 {% endfor %}
+
+## Publications
+
+{% assign publications = site.data.papers | where_exp: 'paper', "paper.venue != 'Preprint'" %}
+{% for paper in publications %}
+{% include paper-entry.md paper=paper %}
+
 {% endfor %}
